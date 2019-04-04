@@ -5,9 +5,6 @@ def second_challenge
    meat: ["chicken", "steak", "salmon"],
    grains: ["rice", "pasta"]
   }
-grocieries.values.flatten
-
-
-
++groceries.value.flatten
 
 end
